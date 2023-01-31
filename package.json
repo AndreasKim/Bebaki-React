@@ -2,7 +2,7 @@
   "name": "hello",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lemon-flower-02439e303.2.azurestaticapps.net/",
+  "homepage": "https://lemon-flower-02439e303.2.azurestaticapps.net/src/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
